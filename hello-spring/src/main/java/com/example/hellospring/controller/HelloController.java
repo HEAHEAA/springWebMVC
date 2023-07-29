@@ -42,6 +42,7 @@ public class HelloController {
     static class Hello{
         private String name;
 
+        //게터세터 (프로퍼티 방식) 이라고도 한다.
         public String getName(){
             return name;
         }
